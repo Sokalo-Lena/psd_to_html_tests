@@ -9,5 +9,3 @@ ${BROWSER}  Chrome
 *** Keywords ***
 Prepare Test Environment
     Open Browser  ${HOST}  ${BROWSER}
-    #Sleep  5
-    #Set Selenium Speed  .4
