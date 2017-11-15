@@ -6,8 +6,8 @@ Test Teardown    Close All Browsers
 
 *** Test Cases ***
 Blog
-    Wait Until Keyword Succeeds	 3x	 1000ms  Click Element  css=#menu-item-191 > a
-    Wait Until Keyword Succeeds	 3x	 1000ms  Click Element  css=#post-447 > h2 > a
+    vvvvvvv  Wait Until Keyword Succeeds	 3x	 1000ms  Click Element  css=#menu-item-191 > a
+    xxxxxx  Wait Until Keyword Succeeds	 3x	 1000ms  Click Element  css=#post-447 > h2 > a
     Wait Until Keyword Succeeds	 3x	 1000ms  Click Link  WooCommerce Optional Development Features
 
 About us
