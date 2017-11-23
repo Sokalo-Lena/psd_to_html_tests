@@ -16,5 +16,5 @@ Top navigation test
     Click Element  css=#menu-item-96 > a
     Element Should Contain  css=#contacts > div > div > span  Get in touch with us!
     Click Element  css=#menu-item-489 > a
-    Wait Until Keyword Succeeds	 3x	 2000ms  Click Element  css=#menu-item-535 > a
+    Wait Until Keyword Succeeds	 3x	 2000ms  Click Element  css=#menu-item-563 > a
     Wait Until Keyword Succeeds	 3x	 2000ms  Click Element  css=#menu-item-191 > a
