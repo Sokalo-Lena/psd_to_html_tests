@@ -27,7 +27,7 @@ Start your project positive
     Input Text  css=div > label.label.clearfix.pop-start-project__wrap-textarea > textarea  Hellow
     Input Text  css=div.project-type__wrap.pop-start-project__wrap-psd > div > label:nth-child(1) > input  https://www.facebook.com/
     Click Element  css=div.pop-start-project__submit-block.clearfix > input
-    Page Should Contain  Your order get success
+    Page Should Contain  Your order was successfully placed.
     Mouse Over  css=span.popup__title
     Wait Until Keyword Succeeds	 3x	 1000ms  Click Element  css=#pop-successful > div.popup__terms__close > span
 
