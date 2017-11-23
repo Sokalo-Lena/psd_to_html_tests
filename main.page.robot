@@ -30,9 +30,6 @@ Testimonials
     Wait Until Keyword Succeeds	 3x	 2000ms  Click Button  css=div > button.slick-prev.slick-arrow
     Wait Until Keyword Succeeds	 3x	 2000ms  Click Button  css=div > button.slick-next.slick-arrow
 
-Partner
-    Element Should Contain  css=#partners > div > div > h2  Partner
-
 Get Your PSD converted
     Element Should Contain  css=div:nth-child(8) > div > div > div > span:nth-child(1)  Get Your
     Page Should Contain Element  css=div:nth-child(8) > div > div > span
