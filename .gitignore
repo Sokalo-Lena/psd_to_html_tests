@@ -1,9 +1,0 @@
-.DS_Store
-.log
-.idea
-log.*
-report.*
-output.*
-*.html
-*.xml
-*.png
